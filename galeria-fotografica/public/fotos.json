@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "src": "/fotos/foto-01.jpg",
+    "categoria": "cráter",
+    "titulo": "Cráter activo, vista norte",
+    "ubicacion": "Volcán Poás",
+    "fecha": "2024-02-11",
+    "descripcion": "Fumarola visible sobre la laguna ácida del cráter principal."
+  },
+  {
+    "id": 2,
+    "src": "/fotos/foto-02.jpg",
+    "categoria": "cráter",
+    "titulo": "Borde erosionado",
+    "ubicacion": "Volcán Rincón de la Vieja",
+    "fecha": "2024-03-02",
+    "descripcion": "Pared interna del cráter mostrando capas de ceniza compactada."
+  },
+  {
+    "id": 3,
+    "src": "/fotos/foto-03.jpg",
+    "categoria": "cráter",
+    "titulo": "Laguna sulfurosa",
+    "ubicacion": "Volcán Rincón de la Vieja",
+    "fecha": "2024-03-02",
+    "descripcion": "Coloración amarillenta producida por depósitos de azufre."
+  },
+  {
+    "id": 4,
+    "src": "/fotos/foto-04.jpg",
+    "categoria": "flora",
+    "titulo": "Recuperación post-erupción",
+    "ubicacion": "Volcán Arenal",
+    "fecha": "2024-01-19",
+    "descripcion": "Primeras especies pioneras colonizando el campo de lava de 1968."
+  },
+  {
+    "id": 5,
+    "src": "/fotos/foto-05.jpg",
+    "categoria": "flora",
+    "titulo": "Bosque nuboso de altura",
+    "ubicacion": "Volcán Poás",
+    "fecha": "2024-02-11",
+    "descripcion": "Robles enanos adaptados a la exposición constante a gases volcánicos."
+  },
+  {
+    "id": 6,
+    "src": "/fotos/foto-06.jpg",
+    "categoria": "flora",
+    "titulo": "Sotobosque en ladera activa",
+    "ubicacion": "Volcán Turrialba",
+    "fecha": "2024-04-05",
+    "descripcion": "Vegetación resistente a la lluvia ácida ocasional."
+  },
+  {
+    "id": 7,
+    "src": "/fotos/foto-07.jpg",
+    "categoria": "formación",
+    "titulo": "Columnas de basalto",
+    "ubicacion": "Volcán Arenal",
+    "fecha": "2024-01-19",
+    "descripcion": "Enfriamiento columnar visible en un corte de carretera cercano."
+  },
+  {
+    "id": 8,
+    "src": "/fotos/foto-08.jpg",
+    "categoria": "formación",
+    "titulo": "Campo de lava 1968",
+    "ubicacion": "Volcán Arenal",
+    "fecha": "2024-01-19",
+    "descripcion": "Textura de lava aa, fragmentada y de superficie irregular."
+  },
+  {
+    "id": 9,
+    "src": "/fotos/foto-09.jpg",
+    "categoria": "formación",
+    "titulo": "Fumarola lateral",
+    "ubicacion": "Volcán Turrialba",
+    "fecha": "2024-04-05",
+    "descripcion": "Emisión continua de vapor en una grieta secundaria."
+  },
+  {
+    "id": 10,
+    "src": "/fotos/foto-10.jpg",
+    "categoria": "panorámica",
+    "titulo": "Valle Central desde la cumbre",
+    "ubicacion": "Volcán Poás",
+    "fecha": "2024-02-11",
+    "descripcion": "Vista despejada en horas tempranas antes de la formación de nubes."
+  },
+  {
+    "id": 11,
+    "src": "/fotos/foto-11.jpg",
+    "categoria": "panorámica",
+    "titulo": "Cono perfecto al atardecer",
+    "ubicacion": "Volcán Arenal",
+    "fecha": "2024-01-19",
+    "descripcion": "Silueta característica del cono visible desde el sendero Los Tucanes."
+  },
+  {
+    "id": 12,
+    "src": "/fotos/foto-12.jpg",
+    "categoria": "panorámica",
+    "titulo": "Cordillera Volcánica Central",
+    "ubicacion": "Volcán Turrialba",
+    "fecha": "2024-04-05",
+    "descripcion": "Encadenamiento de picos visible desde el mirador del sendero principal."
+  }
+]
