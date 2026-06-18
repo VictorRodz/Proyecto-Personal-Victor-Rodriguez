@@ -16,7 +16,6 @@
           </button>
 
           <div class="hero__marca">
-            <span class="hero__sello">EST. 07</span>
             <span class="hero__linea"></span>
           </div>
           <h1 class="hero__titulo">Bitácora de<br />Senderos Volcánicos</h1>
@@ -33,8 +32,7 @@
         </main>
 
         <footer class="pie">
-          <span>Victor Rodríguez Arce — Desarrollo Multimedia Web</span>
-          <span>Framework: Vue 3 (Options API)</span>
+          <span>Victor Rodríguez Arce — IF7102 - Multimedios</span>
         </footer>
       </div>
     </Transition>

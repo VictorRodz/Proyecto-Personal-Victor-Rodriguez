@@ -48,7 +48,7 @@
     "id": 6,
     "src": "/fotos/foto-06.jpg",
     "categoria": "flora",
-    "titulo": "Sotobosque en ladera activa",
+    "titulo": "Bosque en ladera activa",
     "ubicacion": "Volcán Turrialba",
     "fecha": "2024-04-05",
     "descripcion": "Vegetación resistente a la lluvia ácida ocasional."
@@ -57,7 +57,7 @@
     "id": 7,
     "src": "/fotos/foto-07.jpg",
     "categoria": "formación",
-    "titulo": "Columnas de basalto",
+    "titulo": "Morfología del Volcán",
     "ubicacion": "Volcán Arenal",
     "fecha": "2024-01-19",
     "descripcion": "Enfriamiento columnar visible en un corte de carretera cercano."
@@ -69,7 +69,7 @@
     "titulo": "Campo de lava 1968",
     "ubicacion": "Volcán Arenal",
     "fecha": "2024-01-19",
-    "descripcion": "Textura de lava aa, fragmentada y de superficie irregular."
+    "descripcion": "Sendero interpretativo en flujo de lava, fragmentada y de superficie irregular."
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "titulo": "Cono perfecto al atardecer",
     "ubicacion": "Volcán Arenal",
     "fecha": "2024-01-19",
-    "descripcion": "Silueta característica del cono visible desde el sendero Los Tucanes."
+    "descripcion": "Silueta característica del cono visible bajo un atardecer."
   },
   {
     "id": 12,
